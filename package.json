@@ -1,0 +1,15 @@
+{
+  "name": "note-app",
+  "version": "1.0.0",
+  "description": "My First Node Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rushikesh Pawar",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "yargs": "^12.0.1"
+  }
+}
